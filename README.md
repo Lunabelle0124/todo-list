@@ -1,2 +1,2 @@
-# todo-list
-Simple JavaScript To-Do List App
+# theme-picker
+Simple JavaScript Theme-Picker App
